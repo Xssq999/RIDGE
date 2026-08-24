@@ -27,7 +27,7 @@ Long videos contain far more visual content than Large Vision-Language Models (L
 RIDGE is a lightweight post-processing method over precomputed frame-query scores. It requires no training and no iterative calls to the downstream LVLM.
 
 <p align="center">
-  <img src="assets/motivation_00.png" alt="RIDGE motivation" width="96%">
+  <img src="assets/motivation_00.png" alt="RIDGE motivation" width="75%">
 </p>
 
 ## Highlights
@@ -47,7 +47,7 @@ RIDGE has three stages:
 3. **Structure-aware frame selection** applies a matched scoring rule inside each region and restores temporal order for LVLM inference.
 
 <p align="center">
-  <img src="assets/method_00.png" alt="RIDGE framework" width="100%">
+  <img src="assets/method_00.png" alt="RIDGE framework" width="92%">
 </p>
 
 ## Repository Contents
