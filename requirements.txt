@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+scipy>=1.11,<2
+torch>=2.1
+transformers>=4.39.2
+accelerate>=0.29.1

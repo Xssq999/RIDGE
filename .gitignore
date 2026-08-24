@@ -1,0 +1,43 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Models, generated features, logs, and experiment outputs
+checkpoints/
+models/
+outputs/
+results/
+logs/
+tmp_shards/
+wandb/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Raw video/audio data
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.wav
+
+# Dataset payloads; keep only the layout documentation
+datasets/**/data/
+datasets/**/video/
+datasets/**/videos/
+datasets/**/features/
+datasets/**/features_and_scores/
+datasets/**/keyframe_dir/*.json

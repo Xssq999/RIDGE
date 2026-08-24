@@ -1,0 +1,11 @@
+[
+  {
+    "peak_similarity": 8,
+    "slope_abs": 6,
+    "rising_slope": 8,
+    "falling_slope": 5,
+    "boundary_change": 6,
+    "context_density": 3,
+    "reasoning": "The question needs the event core and the causal buildup immediately before it."
+  }
+]
