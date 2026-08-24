@@ -110,7 +110,7 @@ Prepare three aligned JSON lists:
 ```bash
 python frame_select.py \
   --dataset_name longvideobench \
-  --extract_feature_model blip2 \
+  --extract_feature_model blip1 \
   --score_path /path/to/scores.json \
   --frame_path /path/to/frames.json \
   --query_path /path/to/weights.json \
