@@ -130,7 +130,7 @@ The selected frame lists are written to:
 ```bash
 python frame_select.py \
   --dataset_name demo \
-  --extract_feature_model blip2 \
+  --extract_feature_model blip1 \
   --score_path examples/sample_scores.json \
   --frame_path examples/sample_frames.json \
   --query_path examples/sample_weights.json \
