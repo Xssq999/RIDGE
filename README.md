@@ -149,7 +149,7 @@ Large videos, model checkpoints, generated features, and experiment outputs are 
 The table below summarizes the Qwen2.5-VL-7B results at a 32-frame budget reported in the paper.
 
 | Method | Video-MME | LongVideoBench | MLVU | LVBench |
-|:--|--:|--:|--:|--:|
+|:--|---:|--:|--:|--:|
 | Uniform sampling | 61.2 | 58.9 | 59.7 | 38.5 |
 | **RIDGE** | **63.7** | **65.4** | **69.6** | **50.9** |
 | Improvement | **+2.5** | **+6.5** | **+9.9** | **+12.4** |
